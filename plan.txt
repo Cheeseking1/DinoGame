@@ -1,0 +1,10 @@
+Obstacles are moving
+Space bar to start and jump
+Text "Press space to play"
+Dinosaur changes costumes to change look
+Cacti and pterodactyls are Obstacles
+down arrow to duck
+Highscore and score in top right corner
+When lost, game over appears.
+HOMEWORK:
+Write one lign for each 4 types of postions (relative, absolute, etc.), explaining each one.
