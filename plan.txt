@@ -8,3 +8,8 @@ Highscore and score in top right corner
 When lost, game over appears.
 HOMEWORK:
 Write one lign for each 4 types of postions (relative, absolute, etc.), explaining each one.
+static: It is when a body or an object is at rest or not moving
+fixed: It is when it is relative to the viewport 
+relative: This means it is relative to its normal position in the document flow
+sticky: It is when an element is position in relation to the viewport
+absolute: It is when it is positioned relative to its first positioned ancestor

@@ -7,14 +7,19 @@
     <body class = "back">
         <h1 class = "text">Cheese jump</h1>
         <div class = "buttons">
-            <button class = "button easy">Easy</button>
-            <button class = "button hard">Hard</button>
+            <button class = "button easy" onclick="easy()">EASY</button>
+            <button class = "button hard" onclick="hard()">HARD</button>
         </div>
         <div class = "outershell">
             <div class="main">
                 <img src="./CheeseIMG.png" class = "character"></img>
             </div>
         </div>
-        <h2 class="text">Score: 0</h2>
+        <h2 class="text score">Score: 0</h2>
+        <h2 class="text gameover"></h2>
+        <div class="buttons">
+            <button class = "button reset" onclick=" window.location.reload()">RESET</button>
+        </div>
+        <script src="./index.js"></script>
     </body>
 </html>
